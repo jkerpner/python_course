@@ -9,6 +9,7 @@ total_unemployment_2014 = 8.0
 total_unemployment_rise = total_unemployment_2014 - total_unemployment_2009
 
 def write_story(municipality, unemployment_2009, unemployment_2014):
+<<<<<<< HEAD
 	unemployment_rise = unemployment_2014 - unemployment_2009
 	if unemployment_rise < total_unemployment_rise:
 		if unemployment_rise < 0:
@@ -27,6 +28,12 @@ def write_story(municipality, unemployment_2009, unemployment_2014):
 		#print("Arbetslösheten i %s var år 2014 %s högre än efter finanskrisen 2009. Den har gått upp från %s procent till %s procent.") % (municipality, unemployment_2014 - unemployment_2009, unemployment_2009, unemployment_2014)
 
 """
+=======
+    text = "Gör mig till en notis"
+    print("Nu har jag löst uppfiften!")
+    print(text)
+    # Skriv kod här!
+>>>>>>> 0b75cc4a73af7947e0872f98e2a85a320a992abd
 
 def print_header(pop1, pop2):
     if pop2 > pop1:
