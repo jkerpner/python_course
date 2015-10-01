@@ -70,6 +70,10 @@ arbetslösheten stiger eller sjunker i kommunen.
 """
 
 for row in data:
-    print("Ny rad!")
-    print(row)
-    # Skriv kod här!
+    if row["unemployment_2014"] > row["unemployment_2009"]:
+        print("Arbetslösheten i %s ökade till %s procent 2014 från att ha varit %s procent 2009." % 
+            (row["municipality"],row["unemployment_2014"],row["unemployment_2009"]))
+    else:
+        
+
+#    print("I %s är arbetslösheten %s procent." % (row["municipality"], row["unemployment_2014"]))

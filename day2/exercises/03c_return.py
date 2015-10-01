@@ -67,9 +67,24 @@ data = [
 ÖVNING:
 Använd en IF-sats och skriv ut en mening som varierar beroende på om
 arbetslösheten stiger eller sjunker i kommunen.
+
+kategorisera om hög låg medel
+
+skriv ut en mening om arbetslösheten
+typ 
+arbetslösheten i Boden är hög låg medel
+
 """
 
+def categorize_unemployment(unemployment):
+    if unemployment < 5.0:
+        return "låg"
+    if unemployment >= 7.0:
+        return "hög"
+    return "medel"
+
 for row in data:
-    print("Ny rad!")
-    print(row)
-    # Skriv kod här!
+    county = row["municipality"]
+    no_job = row["unemployment_2014"]
+    print("Arbetslösheten i %s är %s" % (county, categorize_unemployment(no_job)))
+    #print("Arbetslösheten i %s är %s" % (row["municipality"], categorize_unemployment(row["unemployment_2014"])))

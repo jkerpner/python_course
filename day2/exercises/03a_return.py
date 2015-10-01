@@ -11,6 +11,10 @@ Använd IF-satser
 def categorize_unemployment(unemployment):
     if unemployment < 5.0:
         return "låg"
+    if unemployment >= 7.0:
+    	return "medel"
+    else:
+    	return "hög"
 
 
 print(categorize_unemployment(1.2))

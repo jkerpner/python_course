@@ -20,10 +20,12 @@ Gör en for-loop som skriver ut en numrerad deltagarlista.
 o.s.v.
 """
 
-counter = 1
-print("Nu börjar programmet! Vi sätter räknaren på 1.")
+counter = 0
+#print("Nu börjar programmet! Vi sätter räknaren på 1.")
 
 for unicorn in unicorns:
-    # Skriv kod här!
-    print("Nu körs loopen")
+    counter = counter + 1
+    print ("%s. %s" %(counter, unicorn))
     
+
+    #"counter" + "." + unicorns[0])# Skriv kod här!

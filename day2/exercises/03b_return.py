@@ -7,9 +7,8 @@
 """
 
 
-def get_change(unemployment_now, unemployment_then):
-    # Skriv kod här!
 
+    
 
 data = [
     {"municipality": "Ale",
@@ -26,10 +25,14 @@ data = [
      }
 ]
 
+
+def get_change(unemployment_now, unemployment_then):
+    difference = unemployment_now - unemployment_then
+    return difference
+
 ale = data[0]
 alvesta = data[2]
-print(ale)
-print(alvesta)
 
 print(get_change(ale["unemployment_2014"], ale["unemployment_2009"]))
-print(get_change(alvesta["unemployment_2014"], ale["unemployment_2009"]))
+print(get_change(alvesta["unemployment_2014"], alvesta["unemployment_2009"]))
+

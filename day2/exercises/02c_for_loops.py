@@ -69,5 +69,4 @@ Skriv ut namn och arbetslösheten för 2014 för alla kommuner.
 """
 
 for row in data:
-    print("Ny rad!")
-    print(row)
+    print("I %s är arbetslösheten %s procent." % (row["municipality"], row["unemployment_2014"]))

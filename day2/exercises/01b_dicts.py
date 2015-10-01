@@ -16,14 +16,15 @@ solna = {
 
 """ Hur många procentenheter har arbetslösheten stigit i Stockholm?
 """
-# Skriv kod här!
+print(stockholm["unemployment_2014"] - stockholm["unemployment_2009"])
+
 
 
 """ Hur många procentenheter har arbetslösheten stigit i Solna?
 """
-# Skriv kod här!
+print(solna["unemployment_2014"] - solna["unemployment_2009"])
 
 
 """ Hur mycket högra arbetslöshet hade Stockholm än Solna 2014?
 """
-# Skriv kod här!
+print(stockholm["unemployment_2014"] - solna["unemployment_2014"])
