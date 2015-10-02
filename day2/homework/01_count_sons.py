@@ -24,7 +24,7 @@ counter_party = 0
 
 
 for row in data:
-	if "son" in row["name"]:
+	if "son," in row["name"]:
 		counter_son_names = counter_son_names + 1	
 
 print("Av %s ledamöter har %s son-namn" %(total_number_of_mps, counter_son_names))
@@ -34,7 +34,7 @@ counter_son_names_SD = 0
 for row in data:
 	if "SD" in row["party"]:
 		counter_party_SD = counter_party_SD + 1
-		if "son" in row["name"]:
+		if "son," in row["name"]:
 			counter_son_names_SD = counter_son_names_SD + 1
 counter_percent_SD = float(counter_son_names_SD) / float(counter_party_SD) * 100
 
@@ -45,7 +45,7 @@ counter_son_names_FP = 0
 for row in data:
 	if "FP" in row["party"]:
 		counter_party_FP = counter_party_FP + 1
-		if "son" in row["name"]:
+		if "son," in row["name"]:
 			counter_son_names_FP = counter_son_names_FP + 1
 counter_percent_FP = float(counter_son_names_FP) / float(counter_party_FP) * 100
 
@@ -56,7 +56,7 @@ counter_son_names_KD = 0
 for row in data:
 	if "KD" in row["party"]:
 		counter_party_KD = counter_party_KD + 1
-		if "son" in row["name"]:
+		if "son," in row["name"]:
 			counter_son_names_KD = counter_son_names_KD + 1
 counter_percent_KD = float(counter_son_names_KD) / float(counter_party_KD) * 100
 
@@ -67,7 +67,7 @@ counter_son_names_MP = 0
 for row in data:
 	if "MP" in row["party"]:
 		counter_party_MP = counter_party_MP + 1
-		if "son" in row["name"]:
+		if "son," in row["name"]:
 			counter_son_names_MP = counter_son_names_MP + 1
 counter_percent_MP = float(counter_son_names_MP) / float(counter_party_MP) * 100
 
@@ -78,7 +78,7 @@ counter_son_names_M = 0
 for row in data:
 	if "M" in row["party"]:
 		counter_party_M = counter_party_M + 1
-		if "son" in row["name"]:
+		if "son," in row["name"]:
 			counter_son_names_M = counter_son_names_M + 1
 counter_percent_M = float(counter_son_names_M) / float(counter_party_M) * 100
 
@@ -89,7 +89,7 @@ counter_son_names_C = 0
 for row in data:
 	if "C" in row["party"]:
 		counter_party_C = counter_party_C + 1
-		if "son" in row["name"]:
+		if "son," in row["name"]:
 			counter_son_names_C = counter_son_names_C + 1
 counter_percent_C = float(counter_son_names_C) / float(counter_party_C) * 100
 
@@ -100,7 +100,7 @@ counter_son_names_V = 0
 for row in data:
 	if "V" in row["party"]:
 		counter_party_V = counter_party_V + 1
-		if "son" in row["name"]:
+		if "son," in row["name"]:
 			counter_son_names_V = counter_son_names_V + 1
 counter_percent_V = float(counter_son_names_V) / float(counter_party_V) * 100
 
@@ -111,7 +111,7 @@ counter_son_names_S = 0
 for row in data:
 	if "S" in row["party"]:
 		counter_party_S = counter_party_S + 1
-		if "son" in row["name"]:
+		if "son," in row["name"]:
 			counter_son_names_S = counter_son_names_S + 1
 counter_percent_S = float(counter_son_names_S) / float(counter_party_S) * 100
 
