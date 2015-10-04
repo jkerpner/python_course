@@ -7,7 +7,7 @@ data = [
     },
     {
         "name": "Abrahamsson, Maria",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Acketoft, Tina",
@@ -15,7 +15,7 @@ data = [
     },
     {
         "name": "Adan, Amir",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Ahl, Jeff",
@@ -23,7 +23,7 @@ data = [
     },
     {
         "name": "Ahlberg, Ann-Christin",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Ahlgren, Anders",
@@ -39,27 +39,27 @@ data = [
     },
     {
         "name": "Andersson Willner, Maria",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Andersson, Erik",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Andersson, Jan R",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Andersson, Johan",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Andersson, Jörgen",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Andersson, Phia",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Andersson, Ulla",
@@ -67,7 +67,7 @@ data = [
     },
     {
         "name": "Arkelsten, Sofia",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Arnholm, Maria",
@@ -75,23 +75,23 @@ data = [
     },
     {
         "name": "Ask, Beatrice",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Asplund, Lena",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Avsan, Anti",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Axelsson, Lennart",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Bali, Hanif",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Bengtsson, Angelika",
@@ -99,27 +99,27 @@ data = [
     },
     {
         "name": "Bengtsson, Finn",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Bengtzboe, Erik",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Berg, Ulf",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Bergheden, Sten",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Bergman, Håkan",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Bergstedt, Hannah",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Bergström, Stina",
@@ -131,7 +131,7 @@ data = [
     },
     {
         "name": "Billström, Tobias",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Bjälkö, Sara-Lena",
@@ -139,7 +139,7 @@ data = [
     },
     {
         "name": "Björck, Patrik",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Björklund, Jan",
@@ -151,19 +151,19 @@ data = [
     },
     {
         "name": "Bohlin, Carl-Oskar",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Bouveng, Helena",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Bråkenhielm, Catharina",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Brännström, Katarina",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Bylund, Linus",
@@ -171,7 +171,7 @@ data = [
     },
     {
         "name": "Büser, Johan",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Bäckström Johansson, Mattias",
@@ -195,7 +195,7 @@ data = [
     },
     {
         "name": "Carlsson, Gunilla",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Carlsson, Ulrika i Skövde",
@@ -203,15 +203,15 @@ data = [
     },
     {
         "name": "Carvalho, Teresa",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Cederbratt, Mikael",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Cederfelt, Margareta",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Christensson, Fredrik",
@@ -219,7 +219,7 @@ data = [
     },
     {
         "name": "Coenraads, Åsa",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Dadgostar, Nooshi",
@@ -227,7 +227,7 @@ data = [
     },
     {
         "name": "Dahlqvist, Mikael",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Dalunde, Jakop",
@@ -243,11 +243,11 @@ data = [
     },
     {
         "name": "Delis, Sotiris",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Dibrani, Adnan",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Dinamarca, Rossana",
@@ -263,11 +263,11 @@ data = [
     },
     {
         "name": "Drougge, Ida",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Eberstein, Susanne",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Eclund, Annika",
@@ -279,7 +279,7 @@ data = [
     },
     {
         "name": "Ekström, Hans",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Eliasson, Bengt",
@@ -291,27 +291,27 @@ data = [
     },
     {
         "name": "Emilsson, Lena",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Eneroth, Tomas",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Engblom, Annicka",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Engström, Patrik",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Enström, Karin",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Ericson, Jan",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Eriksson, Fredrik",
@@ -323,11 +323,11 @@ data = [
     },
     {
         "name": "Eriksson, Lars",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Eriksson, Sanne",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Erlandsson, Eskil",
@@ -335,7 +335,7 @@ data = [
     },
     {
         "name": "Ernkrans, Matilda",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Esbati, Ali",
@@ -347,7 +347,7 @@ data = [
     },
     {
         "name": "Ezelius, Erik",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Felten, Olle",
@@ -359,11 +359,11 @@ data = [
     },
     {
         "name": "Finnborg, Thomas",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Finstorp, Lotta",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Forsberg, Anders",
@@ -371,11 +371,11 @@ data = [
     },
     {
         "name": "Forslund, Kenneth G",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Forssell, Johan",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Forssmed, Jakob",
@@ -387,11 +387,11 @@ data = [
     },
     {
         "name": "From, Isak",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Fölster, Sofia",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Gamov, Pavel",
@@ -399,27 +399,27 @@ data = [
     },
     {
         "name": "Ghasemi, Tina",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Gille, Agneta",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Granlund, Marie",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Green, Mats",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Green, Monica",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Gunnarsson, Jonas",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Gunther, Penilla",
@@ -427,7 +427,7 @@ data = [
     },
     {
         "name": "Güclü Hedin, Roza",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Haddad, Roger",
@@ -439,7 +439,7 @@ data = [
     },
     {
         "name": "Haider, Monica",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Halef, Robert",
@@ -447,23 +447,23 @@ data = [
     },
     {
         "name": "Hallengren, Lena",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Hallström, Pia",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Hamednaca, Arhe",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Hammar Johnsson, Ann-Charlotte",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Hammarbergh, Krister",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Hannah, Robert",
@@ -471,11 +471,11 @@ data = [
     },
     {
         "name": "Hansson, Anders",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Haraldsson, Johanna",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Hedin, Johan",
@@ -487,11 +487,11 @@ data = [
     },
     {
         "name": "Hellman, Jörgen",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Helmersson Olsson, Caroline",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Henriksson, Emma",
@@ -507,7 +507,7 @@ data = [
     },
     {
         "name": "Heydari, Shadiye",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Hirvonen, Annika",
@@ -515,15 +515,15 @@ data = [
     },
     {
         "name": "Hjälmered, Lars",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Hoff, Hans",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Holm Barenfeld, Christian",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Holm, Jens",
@@ -531,7 +531,7 @@ data = [
     },
     {
         "name": "Holmqvist, Paula",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Hult, Emma",
@@ -539,19 +539,19 @@ data = [
     },
     {
         "name": "Hultberg, Johan",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Håkansson, Per-Arne",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Härstedt, Kent",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Högman, Berit",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Höj Larsen, Christina",
@@ -559,15 +559,15 @@ data = [
     },
     {
         "name": "Hökmark, Isabella",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Jacobsson Gjörtler, Jonas",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Jakobsson, Leif",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Jakobsson, Stefan",
@@ -575,7 +575,7 @@ data = [
     },
     {
         "name": "Jansson, Eva-Lena",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Jansson, Mikael",
@@ -583,7 +583,7 @@ data = [
     },
     {
         "name": "Jeppsson, Peter",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Johansson, Ola",
@@ -603,7 +603,7 @@ data = [
     },
     {
         "name": "Johnsson, Peter",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Jomshof, Richard",
@@ -615,19 +615,19 @@ data = [
     },
     {
         "name": "Jonsson, Mattias",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Juholt, Håkan",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Juntti, Ellen",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Jämtin, Carin",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Jönsson, Johanna",
@@ -643,7 +643,7 @@ data = [
     },
     {
         "name": "Karlsson, Annelie",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Karlsson, Maj",
@@ -655,23 +655,23 @@ data = [
     },
     {
         "name": "Karlsson, Niklas",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Karlsson, Sara",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Karlsson, Ulrika i Uppsala",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Kerimo, Yilmaz",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Kinberg Batra, Anna",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Kinnunen, Martin",
@@ -679,11 +679,11 @@ data = [
     },
     {
         "name": "Kjellin, Margareta B",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Klackenberg, Dag",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Klarberg, Per",
@@ -695,7 +695,7 @@ data = [
     },
     {
         "name": "Kristersson, Ulf",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Kronlid, Julia",
@@ -707,11 +707,11 @@ data = [
     },
     {
         "name": "Köhler, Katarina",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Köse, Serkan",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Lahti, Birger",
@@ -719,15 +719,15 @@ data = [
     },
     {
         "name": "Larsson, Hillevi",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Larsson, Jan-Olof",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Larsson, Lars Mejern",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Larsson, Margareta",
@@ -735,15 +735,15 @@ data = [
     },
     {
         "name": "Larsson, Rikard",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Larsson, Yasmine",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Lavesson, Olof",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Lillemets, Annika",
@@ -755,7 +755,7 @@ data = [
     },
     {
         "name": "Lindberg, Teres",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Linde, Hans",
@@ -767,11 +767,11 @@ data = [
     },
     {
         "name": "Lindestam, Åsa",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Lindh, Eva",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Lindholm, Jan",
@@ -779,7 +779,7 @@ data = [
     },
     {
         "name": "Lindholm, Veronica",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Ling, Rasmus",
@@ -791,11 +791,11 @@ data = [
     },
     {
         "name": "Lohman, Eva",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Lundgren, Elin",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Lundgren, Kerstin",
@@ -803,11 +803,11 @@ data = [
     },
     {
         "name": "Lundh Sammeli, Fredrik",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Lundqvist, Patrik",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Lång, David",
@@ -815,11 +815,11 @@ data = [
     },
     {
         "name": "Löberg, Petter",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Magnusson, Cecilia",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Malm, Fredrik",
@@ -827,7 +827,7 @@ data = [
     },
     {
         "name": "Malmberg, Betty",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Malmberg, Niclas",
@@ -835,11 +835,11 @@ data = [
     },
     {
         "name": "Malmer Stenergard, Maria",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Manhammar, Magnus",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Marttinen, Adam",
@@ -859,27 +859,27 @@ data = [
     },
     {
         "name": "Niemi, Pyry",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Nilsson, Ingemar",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Nilsson, Jennie",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Nilsson, Kerstin",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Nilsson, Kristina",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Nilsson, Pia",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Nilsson, Stefan",
@@ -899,7 +899,7 @@ data = [
     },
     {
         "name": "Nordgren, Gunilla",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Nordin, Lise",
@@ -911,7 +911,7 @@ data = [
     },
     {
         "name": "Norlén, Andreas",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Nylander, Christer",
@@ -919,15 +919,15 @@ data = [
     },
     {
         "name": "Nylund Watz, Ingela",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Nysmed, Leif",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Obminska, Marta",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Ohlsson, Birgitta",
@@ -935,23 +935,23 @@ data = [
     },
     {
         "name": "Ohlsson, Carina",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Olovsson, Fredrik",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Olsson, Kalle",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Olsson, Lotta",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Omanovic, Jasenko",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Oscarsson, Magnus",
@@ -963,15 +963,15 @@ data = [
     },
     {
         "name": "Ottoson, Erik",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Ottosson, Mattias",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Palm, Veronica",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Persson, Magnus",
@@ -983,7 +983,7 @@ data = [
     },
     {
         "name": "Persson, Peter",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Persson, Rickard",
@@ -991,11 +991,11 @@ data = [
     },
     {
         "name": "Petersson, Helene i Stockaryd",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Petersson, Jenny",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Pethrus, Désirée",
@@ -1003,31 +1003,31 @@ data = [
     },
     {
         "name": "Pettersson, Göran",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Pettersson, Helén i Umeå",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Pettersson, Leif",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Pettersson, Marianne",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Plass, Maria",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Polfjärd, Jessica",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Pärssinen, Raimo",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Qarlsson, Annika",
@@ -1035,7 +1035,7 @@ data = [
     },
     {
         "name": "Quicklund, Saila",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Ramhorn, Per",
@@ -1047,11 +1047,11 @@ data = [
     },
     {
         "name": "Redar, Lawen",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Reslow, Patrick",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Riazat, Daniel",
@@ -1063,23 +1063,23 @@ data = [
     },
     {
         "name": "Riedl, Edward",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Rojhan Gustafsson, Azadeh",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Rosencrantz, Jessica",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Roswall, Jessika",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Rothenberg, Hans",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Rågsjö, Karin",
@@ -1095,7 +1095,7 @@ data = [
     },
     {
         "name": "Schulte, Fredrik",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Sestrajcic, Daniel",
@@ -1111,7 +1111,7 @@ data = [
     },
     {
         "name": "Skalberg Karlsson, Jesper",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Skalin, Johnny",
@@ -1123,15 +1123,15 @@ data = [
     },
     {
         "name": "Sköld, Linus",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Sonidsson, Eva",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Staxäng, Lars-Arne",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Stenkvist, Robert",
@@ -1139,15 +1139,15 @@ data = [
     },
     {
         "name": "Stockhaus, Maria",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Strand, Thomas",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Strömkvist, Maria",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Ståhl, Jimmy",
@@ -1159,7 +1159,7 @@ data = [
     },
     {
         "name": "Sundén Andersson, Lisbeth",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Sundin, Cassandra",
@@ -1171,11 +1171,11 @@ data = [
     },
     {
         "name": "Svantesson, Elisabeth",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Svantorp, Gunilla",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Svenneling, Håkan",
@@ -1187,11 +1187,11 @@ data = [
     },
     {
         "name": "Svensson, Michael",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Svensson, Suzanne",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Sydow Mölleby, Mia",
@@ -1199,7 +1199,7 @@ data = [
     },
     {
         "name": "von Sydow, Björn",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Szyber, Caroline",
@@ -1211,7 +1211,7 @@ data = [
     },
     {
         "name": "Sätherberg, Anna-Caren",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Söder, Björn",
@@ -1223,27 +1223,27 @@ data = [
     },
     {
         "name": "Sörenson, Anna-Lena",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Tegnér, Mathias",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Tenfjord-Toftby, Cecilie",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Thalén Finné, Ewa",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Thorell, Olle",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Tobé, Tomas",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Tysklind, Lars",
@@ -1251,7 +1251,7 @@ data = [
     },
     {
         "name": "Töyrä, Emilia",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Ullenhag, Erik",
@@ -1259,7 +1259,7 @@ data = [
     },
     {
         "name": "Unander, Hans",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Utbult, Roland",
@@ -1267,15 +1267,15 @@ data = [
     },
     {
         "name": "Wallén, Anna",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Wallentheim, Anna",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Wallmark, Hans",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Wallrup, Emma",
@@ -1283,11 +1283,11 @@ data = [
     },
     {
         "name": "Waltersson Grönvall, Camilla",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Warborn, Jörgen",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Weimer, Maria",
@@ -1299,7 +1299,7 @@ data = [
     },
     {
         "name": "Westerén, Hanna",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Westerholm, Barbro",
@@ -1307,15 +1307,15 @@ data = [
     },
     {
         "name": "Vestlund, Börje",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Westlund, Åsa",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Widegren, Cecilia",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Widman, Allan",
@@ -1323,7 +1323,7 @@ data = [
     },
     {
         "name": "Wiechel, Björn",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Wiechel, Markus",
@@ -1339,11 +1339,11 @@ data = [
     },
     {
         "name": "Wykman, Niklas",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Völker, Alexandra",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Yngwe, Kristina",
@@ -1355,7 +1355,7 @@ data = [
     },
     {
         "name": "Åberg, Boriana",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Åfeldt, Jennie",
@@ -1371,7 +1371,7 @@ data = [
     },
     {
         "name": "Åkesson, Anette",
-        "party": "M"
+        "party": "M "
     },
     {
         "name": "Åkesson, Jimmie",
@@ -1387,7 +1387,7 @@ data = [
     },
     {
         "name": "Örnfjäder, Krister",
-        "party": "S"
+        "party": "S "
     },
     {
         "name": "Östberg, Christina",
@@ -1395,6 +1395,6 @@ data = [
     },
     {
         "name": "Öz, Emanuel",
-        "party": "S"
+        "party": "S "
     }
 ]      
