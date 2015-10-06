@@ -28,6 +28,8 @@ for row in data:
 		counter_son_names = counter_son_names + 1
 	elif "son " in row["name"]:
 		counter_son_names = counter_son_names + 1
+	#if ("son," in row["name"]) or ("son " in row["name"]):
+	#	counter_son_names = counter_son_names + 1
 
 print("Av %s ledamöter har %s son-namn" %(total_number_of_mps, counter_son_names))
 
